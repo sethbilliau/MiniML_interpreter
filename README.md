@@ -1,7 +1,6 @@
-CS51, Spring 2019\
-Final Project: Miniml\
-\
-Authors: Seth Billiau
+
+# Miniml 
+## Author: Seth Billiau
 
 Introduction
 ============
